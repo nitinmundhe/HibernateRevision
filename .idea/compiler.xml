@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cache" />
+        <module name="ComponentMapping" />
+        <module name="HQL" />
+        <module name="InheritancePerClass" />
+        <module name="InheritenceJoined" />
+        <module name="InheritenceSingleType" />
+        <module name="JPA" />
+        <module name="ManyToMany" />
+        <module name="OneToMany" />
+        <module name="OneToManyBidirectional" />
+        <module name="OneToOne" />
+        <module name="SelfJoinManyToMany" />
+        <module name="SelfJoinOneToMany" />
+        <module name="WithAnnotations" />
+        <module name="WithXML" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
